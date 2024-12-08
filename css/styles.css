@@ -80,6 +80,35 @@ button {
 .hero-btn:focus {
   background-color: #404bbf;
 }
+
+.title-desc {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.text-desc {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+.section-hero {
+  background-color: #f4f4fd;
+}
+.section-item {
+  background-color: #fff;
+}
+
+.section-title {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-align: center;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
 .page-footer {
   background-color: #2e2f42;
 }
